@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/31904458/86142727-bca28780-bab0-11ea-9064-7d563f42e4c6.png
+![](name-of-pacman_game.gif)
 
 # Projects Overview
 
