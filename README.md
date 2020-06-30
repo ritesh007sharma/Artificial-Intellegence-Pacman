@@ -1,5 +1,3 @@
-![Alt text](/Artificial-Intellegence-Pacman/PACMANPNG.png?raw=true "Pacman")
-
 # Projects Overview
 
 **UNIX/Python Tutorial**
