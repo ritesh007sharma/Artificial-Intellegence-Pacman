@@ -1,3 +1,5 @@
+![Alt text](/Artificial-Intellegence-Pacman/path/to/img.jpg?raw=true "Optional Title")
+
 # Projects Overview
 
 **UNIX/Python Tutorial**
