@@ -1,4 +1,4 @@
-![](name-of-pacman_game.gif)
+![](pacman_game.gif)
 
 # Projects Overview
 
