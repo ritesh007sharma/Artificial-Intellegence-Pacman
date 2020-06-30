@@ -1,4 +1,4 @@
-![Alt text](/Artificial-Intellegence-Pacman/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/Artificial-Intellegence-Pacman/PACMANPNG.png?raw=true "Pacman")
 
 # Projects Overview
 
